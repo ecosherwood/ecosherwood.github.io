@@ -12,6 +12,6 @@ menu:
 - {name: 'Contact', file: 'contact.html'}
 
 social:
-- {icon: 'envelope', link: 'mailto:ecosherwoodshs@gmail.com}
+- {icon: 'envelope', link: 'mailto:ecosherwoodshs@gmail.com'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
