@@ -5,7 +5,7 @@ author: "Claire Moran"
 tags: [Chesapeake, Biodiversity, 2017, Conductivity, Turbidity, Depth]
 image: 
   feature: 99562911.jpeg
-  ---
+---
   
  After months of studying the health of the Sandy Spring and our neck of the Anacostia and Chesapeake Bay watershed, some of our group members traveled to Fox Island from June 19th to June 21st. The Smithsonian sponsored our trip with the Chesapeake Bay Foundation, allowing us to travel to the old hunting lodge and learn firsthand about the health of the bay, particularly in comparison to our area of the watershed. Finally, after our engaging school year came to a close, our long-awaited trip began as a group of six Ecosherwood members boarded the bus, and headed toward Crisfield, Maryland. Once we arrived at Crisfield, we boarded the CBF’s boat and thus our “#ecosherwoodtakesfoxisland” adventure began. 
 
