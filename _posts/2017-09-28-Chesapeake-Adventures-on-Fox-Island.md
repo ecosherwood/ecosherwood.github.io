@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chesapeake Adventures on Fox Island"
-author: Claire Moran
+author: "Claire Moran"
 tags: [Chesapeake, Biodiversity, 2017, Conductivity, Turbidity, Depth]
 image: 
   feature: 99562911.jpeg
