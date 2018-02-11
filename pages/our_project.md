@@ -1,9 +1,9 @@
 ---
-layout: misc
+layout: page
 title: Our Project
 ---
 
-This is the data collected from our site, from September 9th, 2017 to October 12th, 2017. We will frequently update this page with new data, so be sure to check back often in order to monitor depth, temperature, conductivity, and dissolved oxygen recorded at our study site. 
+This is the data collected from our site, from September 9th, 2017 to October 12th, 2017. We will frequently update this page with new data, so be sure to check back often in order to monitor depth, temperature, conductivity, and dissolved oxygen recorded at our study site.
 
 ![Depth]({{site.gihub.url }}/assets/img/79094409.png)
 
