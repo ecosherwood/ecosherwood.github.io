@@ -7,7 +7,9 @@
   img: 99562911.jpeg
 ---
 
- After months of studying the health of the Sandy Spring and our neck of the Anacostia and Chesapeake Bay watershed, some of our group members traveled to Fox Island from June 19th to June 21st. The Smithsonian sponsored our trip with the Chesapeake Bay Foundation (CBF), allowing us to travel to an old hunting lodge on the island and learn firsthand about the health of the bay, particularly in comparison to our Northwest Branch of the Anacostia. Finally, after our engaging school year came to a close, our long-awaited trip began as a group of six Ecosherwood members boarded the bus, and headed toward Crisfield, Maryland. Once we arrived at Crisfield, we boarded the CBF’s boat and our “#ecosherwoodtakesfoxisland” adventure began.
+ After months of studying the health of the Sandy Spring and our neck of the Anacostia and Chesapeake Bay watershed, some of our group members traveled to Fox Island from June 19th to June 21st.
+ 
+ The Smithsonian sponsored our trip with the Chesapeake Bay Foundation (CBF), allowing us to travel to an old hunting lodge on the island and learn firsthand about the health of the bay, particularly in comparison to our Northwest Branch of the Anacostia. Finally, after our engaging school year came to a close, our long-awaited trip began as a group of six Ecosherwood members boarded the bus, and headed toward Crisfield, Maryland. Once we arrived at Crisfield, we boarded the CBF’s boat and our “#ecosherwoodtakesfoxisland” adventure began.
 
 Upon our arrival at Fox Island, we discussed our goals for the trip and reached the agreement that a vital aspect of our trip would be to have fun while collecting fascinating data about the health of the bay. First, we ventured to Smith Island, specifically Tylerton, to speak with natives about the rising sea level, the crabbing crisis, and life on the island. Despite the news frenzy related to potential flooding and loss of industry, many of the island natives remained unconcerned while discussing safety threats to their beloved home.
 
