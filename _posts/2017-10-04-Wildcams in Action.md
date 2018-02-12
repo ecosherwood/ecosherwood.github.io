@@ -7,9 +7,13 @@
  img: STC_0591.JPG
 ---
 
-The past few weeks have created some interesting advancements in our research here at Ecosherwood. As our team recently implemented wildcams to accompany our usage of the mayfly loggers, we have been able to access images of our site from all hours of the day. Activated by motion sensors, the wildcams capture images of organisms that pass within the range of view. By switching out memory cards, we are able to easily access the pictures on a laptop. What have we seen so far? Unsurprisingly, many deer and occasional humans. Our study site remains a part of the Northwest Branch Stream Valley Park, and therefore receives a fair amount of inevitable foot traffic.
+The past few weeks have created interesting advancements in our research here at Ecosherwood. As our team recently implemented wildcams to accompany our usage of the mayfly loggers, we have been able to access images of our site from all hours of the day. 
 
-Paired with the data from our logger, we will be able to analyze how the organisms interacting with our site impact the turbidity of the stream and other correlations between the health of the stream and the organisms who rely on our study site within their daily lives. Additionally, the wildcams provide our group with a representation of the biodiversity within our site. Here is a sampling of some of the pictures we have received so far. Enjoy!
+Activated by motion sensors, the wildcams capture images of organisms that pass within the range of view. By switching out memory cards, we are able to easily access the pictures on a laptop. What have we seen so far? Unsurprisingly, many deer and occasional humans. Our study site remains a part of the Northwest Branch Stream Valley Park, and therefore receives inevitable foot traffic from the community
+
+Paired with the data from our logger, we will be able to analyze how the organisms interacting with our site impact the turbidity of the stream and other correlations between the health of the stream and the organisms who rely on our study site within their daily lives.  Here is a sampling of some of the pictures we have received so far. 
+
+Enjoy!
 
 ![Image Wildcam 1- First Post]({{site.github.url }}/assets/img/STC_0541.jpg)
 
