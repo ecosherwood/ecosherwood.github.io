@@ -1,4 +1,4 @@
-logo: # add logo name
+logo: Ecosherwood # add logo name
 title: Ecosherwood
 description:
 permalink: ':title/' # the subpath of your site, e.g. /blog
@@ -11,6 +11,7 @@ banner-desc: "Enviornmental Activism and Empowerment" # add banner description
 
 
 # Social link
+email_url: ecosherwood2017@gmail.com
 google_url:    # add url link
 twitter_url:   # add url link
 instagram_url: # add url link
@@ -37,5 +38,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-include: [_pages]
+include: [pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
