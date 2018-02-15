@@ -15,12 +15,12 @@ Paired with the data from our logger, we will be able to analyze how the organis
 
 Enjoy!
 
-![Image Wildcam 1- First Post]({{site.github.url }}/assets/img/STC_0541.jpg)
+![Image Wildcam 1- First Post]({{site.github.url }}/assets/img/STC_0541.JPG)
 
-![Image Wildcam 2- First Post]({{site.github.url }}/assets/img/STC_0536.jpg)
+![Image Wildcam 2- First Post]({{site.github.url }}/assets/img/STC_0536.JPG)
 
-![Image Wildcam 3- First Post]({{site.github.url }}/assets/img/STC_0605.jpg)
+![Image Wildcam 3- First Post]({{site.github.url }}/assets/img/STC_0605.JPG)
 
 ![Image Wildcam 4- First Post]({{site.github.url }}/assets/img/thumb_STC_0224_1024.jpg)
 
-![Image Wildcam 5- First Post]({{site.github.url }}/assets/img/STC_0578.jpg)
+![Image Wildcam 5- First Post]({{site.github.url }}/assets/img/STC_0578.JPG)
