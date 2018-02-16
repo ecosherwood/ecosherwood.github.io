@@ -4,7 +4,7 @@
  author: "Anika Mittu"			
  author-pic: anika.jpg	
  tags: [Conductivity, Temperature, Turbidity, Water Depth]		
- img: Trees for CTD Post.jpg
+ img: Trees_for_CTD_Post.jpg
 ---
  
 Part of our mission here at Ecosherwood remains making science understandable to the community by applying environmental concepts to local ecology. So, we though that it may be helpful to briefly provide a simple explanation of why we study conductivity, temperature, turbidity, and water depth in our study site, to help readers better understand the graphs that we post in the "Our Project" page. Here you go!
