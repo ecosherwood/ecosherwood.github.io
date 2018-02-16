@@ -4,7 +4,7 @@ title: "The Other Side of The Anacostia"
 author: Anika Mittu
 author-pic: anika.jpg
 tags: [Watershed, Anacostia, Environmental Policy]
-img: Barren Cover Photo.jpg
+img: "Barren Cover Photo.jpg"
 ---
 
 On the way to Bladensburg, Maryland to finally take a tour of the Anacostia Watershed, our bus halted next to a murky stream. Haunting, disturbed murmurs flowed through the crowded bus as we stared through our windows at the littered asphalt and water below. Yet, our shock quickly turned to anger as we caught a glimpse of the factories directly adjacent to the discolored stream. 
