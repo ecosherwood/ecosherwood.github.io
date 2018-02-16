@@ -1,6 +1,6 @@
  ---
  layout: post		
- title: "Explaning CTD"		
+ title: "Explaining CTD"		
  author: "Anika Mittu"			
  author-pic: anika.jpg	
  tags: [Conductivity, Temperature, Turbidity, Water Depth]		
